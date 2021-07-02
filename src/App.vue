@@ -2,7 +2,7 @@
 <div>
   <header>
     <div class="header-bar">
-      <p class="title">The Moviez Review</p>
+      <p class="title">les Films à voir</p>
       <div class="btn-container">
         <button class="btn-1"> <router-link to='/'>Accueil </router-link>  </button>
         <button class="btn-1"> <router-link to='/list'>Ma Liste</router-link>  </button>
@@ -41,7 +41,7 @@ header{
   
   font-family:fantasy;
   color: #FFF;
-  font-size: 46px;
+  font-size: 40px;
   margin-bottom: 10px;
 }
 .header-bar{
